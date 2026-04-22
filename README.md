@@ -2,7 +2,8 @@
 ---
 ## welcome
 - this page is made by benjaminlourenco-svg
- ^ it contains html malwares
+
+;it contains html malwares
 ---
 
 ## Example: Infected HTML File
