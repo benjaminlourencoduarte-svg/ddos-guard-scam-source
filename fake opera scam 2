@@ -1,0 +1,295 @@
+<html class="notranslate" dir="ltr" lang="pt"><head><base href="//b.pixelepicenter.com/landers/opera_gx_player/">
+    <!-- CONFIG  -->
+    <script>
+        var APP_CONFIG = {
+            /* LANDING PAGE LOCALES AND TRANSLATIONS */
+            DICTIONARY: {
+                LANDING: {
+                    "ar": {
+                        "title":  "يوصى باستخدام المتصفح",
+                        "headers":  [  "يوصى باستخدام المتصفح",  ],
+                        "texts":  [  "ثبّت OperaGX مع خدمة VPN مجانية وواصل مشاهدة المحتوى",  ],
+                        "exitpoint":  "تثبيت",
+                    },
+                    "en": {
+                        "title":  "Browser Recommended",
+                        "headers":  [  "Browser Recommended",  ],
+                        "texts":  [  "Install OperaGX with free VPN and continue watching content",  ],
+                        "exitpoint":  "Install",
+                    },
+                    "es": {
+                        "title":  "Navegador recomendado",
+                        "headers":  [  "Navegador recomendado",  ],
+                        "texts":  [  "Instala OperaGX con VPN gratis y sigue viendo contenidos",  ],
+                        "exitpoint":  "Instalar",
+                    },
+                    "fr": {
+                        "title":  "Navigateur recommandé",
+                        "headers":  [  "Navigateur recommandé",  ],
+                        "texts":  [  "Installez OperaGX avec un VPN gratuit et continuez à regarder des contenus.",  ],
+                        "exitpoint":  "Installer",
+                    },
+                    "id": {
+                        "title":  "Browser Direkomendasikan",
+                        "headers":  [  "Browser Direkomendasikan",  ],
+                        "texts":  [  "Instal OperaGX dengan VPN gratis dan lanjutkan menonton konten",  ],
+                        "exitpoint":  "Pasang",
+                    },
+                    "it": {
+                        "title":  "Browser raccomandato",
+                        "headers":  [  "Browser raccomandato",  ],
+                        "texts":  [  "Installa OperaGX con VPN gratuita e continua a guardare contenuti",  ],
+                        "exitpoint":  "Installa",
+                    },
+                    "ja": {
+                        "title":  "推奨ブラウザ",
+                        "headers":  [  "推奨ブラウザ",  ],
+                        "texts":  [  "無料のVPNを使ってOperaGXをインストールして、引き続きコンテンツをご視聴ください",  ],
+                        "exitpoint":  "インストール",
+                    },
+                    "pt": {
+                        "title":  "Navegador Recomendado",
+                        "headers":  [  "Navegador Recomendado",  ],
+                        "texts":  [  "Instale OperaGX com VPN grátis e continue a assistir ao conteúdo",  ],
+                        "exitpoint":  "Instalar",
+                    },
+                    "tr": {
+                        "title":  "Önerilen Tarayıcı",
+                        "headers":  [  "Önerilen Tarayıcı",  ],
+                        "texts":  [  "Ücretsiz VPN ile OperaGX’i yükle ve içerik izlemeye devam et",  ],
+                        "exitpoint":  "Kur",
+                    },
+                    "vi": {
+                        "title":  "Trình duyệt được đề xuất",
+                        "headers":  [  "Trình duyệt được đề xuất",  ],
+                        "texts":  [  "Cài đặt OperaGX với VPN miễn phí và tiếp tục xem nội dung",  ],
+                        "exitpoint":  "Tải",
+                    },
+                    "de": {
+                        "title":  "Browser empfohlen",
+                        "headers":  [  "Browser empfohlen",  ],
+                        "texts":  [  "Installieren Sie OperaGX mit kostenlosem VPN und sehen Sie weiterhin Inhalte",  ],
+                        "exitpoint":  "Installieren",
+                    },
+                    "zh": {
+                        "title":  "推荐浏览器",
+                        "headers":  [  "推荐浏览器",  ],
+                        "texts":  [  "安装带免费VPN的 OperaGX 并继续观看内容",  ],
+                        "exitpoint":  "安装",
+                    },
+                    "da": {
+                        "title":  "Browser anbefalet",
+                        "headers":  [  "Browser anbefalet",  ],
+                        "texts":  [  "Installer OperaGX med gratis VPN og fortsæt med at se indhold",  ],
+                        "exitpoint":  "Installer",
+                    },
+                    "nl": {
+                        "title":  "Browser aanbevolen",
+                        "headers":  [  "Browser aanbevolen",  ],
+                        "texts":  [  "Installeer OperaGX met gratis VPN en blijf content bekijken",  ],
+                        "exitpoint":  "Installeren",
+                    },
+                    "et": {
+                        "title":  "Soovitatav brauser",
+                        "headers":  [  "Soovitatav brauser",  ],
+                        "texts":  [  "Installige OperaGX tasuta VPN-iga ja jätkake sisu vaatamist",  ],
+                        "exitpoint":  "Paigalda",
+                    },
+                    "fi": {
+                        "title":  "Selain suositeltu",
+                        "headers":  [  "Selain suositeltu",  ],
+                        "texts":  [  "Asenna OperaGX ilmaisella VPN:llä ja jatka sisällön katselua",  ],
+                        "exitpoint":  "Asenna",
+                    },
+                    "lt": {
+                        "title":  "Rekomenduojama naršyklė",
+                        "headers":  [  "Rekomenduojama naršyklė",  ],
+                        "texts":  [  "Įdiekite OperaGX su nemokamu VPN ir tęskite turinio peržiūrą",  ],
+                        "exitpoint":  "Įdiegti",
+                    },
+                    "no": {
+                        "title":  "Nettleser anbefalt",
+                        "headers":  [  "Nettleser anbefalt",  ],
+                        "texts":  [  "Installer OperaGX med gratis VPN og fortsett å se innhold",  ],
+                        "exitpoint":  "Installer",
+                    },
+                    "pl": {
+                        "title":  "Zalecana przeglądarka",
+                        "headers":  [  "Zalecana przeglądarka",  ],
+                        "texts":  [  "Zainstaluj OperaGX z darmowym VPN i kontynuuj oglądanie treści",  ],
+                        "exitpoint":  "Zainstaluj",
+                    },
+                    "ru": {
+                        "title":  "Рекомендуемый браузер",
+                        "headers":  [  "Рекомендуемый браузер",  ],
+                        "texts":  [  "Установите OperaGX с бесплатным VPN и продолжайте просмотр контента",  ],
+                        "exitpoint":  "Установить",
+                    },
+                    "sk": {
+                        "title":  "Odporúčaný prehliadač",
+                        "headers":  [  "Odporúčaný prehliadač",  ],
+                        "texts":  [  "Nainštalujte OperaGX s bezplatným VPN a pokračujte v prezeraní obsahu",  ],
+                        "exitpoint":  "Inštalovať",
+                    },
+                    "sv": {
+                        "title":  "Webbläsare rekommenderas",
+                        "headers":  [  "Webbläsare rekommenderas",  ],
+                        "texts":  [  "Installera OperaGX med gratis VPN och fortsätt titta på innehåll",  ],
+                        "exitpoint":  "Installera",
+                    },
+                    "zh-TW": {
+                        "title":  "推薦瀏覽器",
+                        "headers":  [  "推薦瀏覽器",  ],
+                        "texts":  [  "安裝帶免費VPN的 OperaGX 並繼續觀看內容",  ],
+                        "exitpoint":  "安裝",
+                    },
+                    "ko": {
+                        "title":  "브라우저 권장",
+                        "headers":  [  "브라우저 권장",  ],
+                        "texts":  [  "무료 VPN이 포함된 OperaGX을 설치하고 콘텐츠 시청을 계속하세요",  ],
+                        "exitpoint":  "설치",
+                    },
+                },
+                /* REVERSE SCRIPT LOCALES AND TRANSLATIONS */
+                REVERSE: {
+                    "ar": "قد لا يتم حفظ تقدمك إذا انسحبت.",
+                    "en": "If you leave, your progress may not be saved.",
+                    "es": "Si sales, es posible que no se guarde tu progreso.",
+                    "fr": "Si vous quittez le site, il se peut que vos progrès ne soient pas sauvegardés.",
+                    "id": "Jika Anda pergi, kemajuan Anda mungkin tidak disimpan.",
+                    "it": "Se esci, i tuoi progressi potrebbero non essere salvati.",
+                    "ja": "退出すると、進行状況が保存されない場合があります。",
+                    "pt": "Se você sair, seu progresso pode não ser salvo.",
+                    "tr": "Ayrılırsan ilerlemen kaydedilmeyebilir.",
+                    "vi": "Nếu bạn rời đi, tiến trình có thể sẽ không được lưu.",
+                    "de": "Wenn Sie gehen, wird Ihr Fortschritt möglicherweise nicht gespeichert.",
+                    "zh": "如果您离开，您的进度可能不会被保存。",
+                    "da": "Hvis du forlader, kan din fremgang muligvis ikke blive gemt.",
+                    "nl": "Als u weggaat, wordt uw voortgang mogelijk niet opgeslagen.",
+                    "et": "Kui lahkute, ei pruugi teie edusammud salvestuda.",
+                    "fi": "Jos lähdet, edistymisesi ei välttämättä tallennu.",
+                    "lt": "Jei išeisite, jūsų pažanga gali būti neišsaugota.",
+                    "no": "Hvis du forlater, kan fremdriften din ikke bli lagret.",
+                    "pl": "Jeśli wyjdziesz, Twój postęp może nie zostać zapisany.",
+                    "ru": "Если вы уйдете, ваш прогресс может не быть сохранен.",
+                    "sk": "Ak odídete, váš pokrok nemusí byť uložený.",
+                    "sv": "Om du lämnar kan din framsteg inte sparas.",
+                    "zh-TW": "如果您離開，您的進度可能不會被儲存。",
+                    "ko": "나가면 진행 상황이 저장되지 않을 수 있습니다.",
+                },
+            },
+        };
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <meta name="referrer" content="no-referrer">
+
+    <title data-translate="title">Navegador Recomendado</title>
+
+    <!-- LANDING FEATURES  -->
+    <script>
+        let URL_PARAMS_LIST={geo:"geo",language:"language"},URL_PARAMS={[URL_PARAMS_LIST.geo]:null,[URL_PARAMS_LIST.language]:null};try{let e=new URL(window.location.href);URL_PARAMS.geo=e.searchParams.get(URL_PARAMS_LIST.geo),URL_PARAMS.language=e.searchParams.get(URL_PARAMS_LIST.language)}catch(e){}
+        (()=>{function a(e){return"object"==typeof Intl&&"function"==typeof Intl.Locale?new Intl.Locale("und",{region:e}).maximize().language:"en"}window.getLanguageCode=()=>{var e=URL_PARAMS.geo,n=URL_PARAMS.language;if(e)return a(e);if(!n)return navigator.language.split("-")[0].toLowerCase();var t=n.split("-");return t.length>1?t[0].toLowerCase()+"-"+t[1].toUpperCase():t[0].toLowerCase()},window.getLanguageDirection=e=>-1!==["ar","dv","he","ku","fa","ur"].indexOf(e)?"rtl":"ltr",window.getLanguageFallback=(e,n)=>{let a=n;if(a.includes("-")){var t=a.split("-");a=t[0].toLowerCase()+"-"+t[1].toUpperCase()}else{a=a.toLowerCase()}return a=void 0===e[a]?"en":a}})();
+        (()=>{function a(e,n){document.querySelectorAll(`[data-translate='${e}']`).forEach(e=>{e.innerHTML=n})}document.addEventListener("DOMContentLoaded",()=>{var e,n,o;void 0!==APP_CONFIG?.DICTIONARY?.LANDING&&(e=window.getLanguageFallback(APP_CONFIG.DICTIONARY.LANDING,window.getLanguageCode()),document.documentElement.lang=e,document.documentElement.dir=window.getLanguageDirection(e),n=APP_CONFIG.DICTIONARY.LANDING,o=e,Object.keys(n[o]).forEach(t=>{"object"==typeof n[o][t]?n[o][t].forEach((e,n)=>{a(t+`[${n}]`,e)}):a(t,n[o][t])}))})})();
+    </script>
+
+    <!-- REVERSE SCRIPT  -->
+    <script>if(void 0!==APP_CONFIG?.DICTIONARY?.REVERSE){let t=window.getLanguageFallback(APP_CONFIG.DICTIONARY.REVERSE,window.getLanguageCode());window.history.replaceState(null,document.title,window.location.href),window.history.pushState(null,document.title,window.location.href),window.addEventListener("popstate",()=>{window.history.replaceState(null,document.title,window.location.href),alert(APP_CONFIG.DICTIONARY.REVERSE[t]),window.history.pushState(null,document.title,window.location.href)})}</script>
+
+
+    <!-- CSS STYLES  -->
+    <style>/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:rgba(0,0,0,0)}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-0.25em}sup{top:-0.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}button,[type=button],[type=reset],[type=submit]{-webkit-appearance:button}button::-moz-focus-inner,[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner{border-style:none;padding:0}button:-moz-focusring,[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}template{display:none}[hidden]{display:none}</style>
+
+    <style>*{box-sizing:border-box}html,body{height:100%;width:100%;margin:0;padding:0}html{font-size:10px}body{background-color:#000;color:#fff;font-family:-apple-system,Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:1.6rem;font-weight:400;line-height:1.12}a{border:0;outline:0;text-decoration:none}.player{height:100%;width:100%;position:relative}.player__controls,.player__social-plugins{left:0;display:flex;padding:1.5rem 1.8rem;position:absolute;right:0}.player__controls{bottom:0;gap:1.2rem;justify-content:space-between}.player__controls__left,.player__controls__right{display:flex;flex:0 0 auto;gap:1.2rem}.player__controls__time{align-items:center;display:flex;flex:0 0 auto;height:2.9rem}.player__controls__progress{align-items:center;display:flex;flex:1 0 auto;height:2.9rem}@media(max-width: 500px){.player__controls__progress{display:none}}.player__controls__progress-bar{background-color:#fff;height:.4rem;width:100%}.player__controls__progress-bar:after{background-color:#427ef4;content:"";display:block;height:.4rem;width:2%}.player__social-plugins{top:0;gap:1.6rem}.player__play{left:50%;position:absolute;top:50%;transform:translate(-50%, -50%);z-index:0}.window{left:50%;position:absolute;top:50%;transform:translate(-50%, -50%);background-color:#fff;border-radius:.6rem;color:#000;max-width:500px;padding:3rem 2.4rem;width:90%;z-index:1}.window__title{margin-bottom:2rem;font-size:2.4rem;font-weight:bold}.window__text{margin-bottom:2.7rem;font-size:2rem;font-weight:500}.window__actions{align-items:center;color:#53afac;display:flex;font-size:24px;font-weight:bold;justify-content:flex-end;text-transform:uppercase}.button{color:#53afac}.icon{align-items:center;display:flex;flex:0 0 2.9rem;height:2.9rem;justify-content:center;width:2.9rem}@media(max-width: 350px){.icon-settings{display:none}}.icon-big{height:5rem;width:5rem}.hidden{animation:setVisible .8s forwards;opacity:0}@keyframes setVisible{0%,62%{opacity:0}100%{opacity:1}}@media(min-width:2560px){.window.hidden{max-width:640px;padding:4rem 3rem}.window.hidden .window__title{font-size:3rem;margin-bottom:2.5rem}.window.hidden .window__text{font-size:2.6rem;margin-bottom:3.5rem}.window.hidden .window__actions{font-size:30px}.window.hidden .button{font-size:30px}}@media(min-width:3840px){.window.hidden{max-width:1000px;padding:6rem 5rem}.window.hidden .window__title{font-size:4.8rem;margin-bottom:3.5rem}.window.hidden .window__text{font-size:4rem;margin-bottom:5.5rem}.window.hidden .window__actions{font-size:48px}.window.hidden .button{font-size:48px}}</style>
+</head>
+<body>
+<div class="player">
+    <div class="player__play">
+        <svg width="100" height="100" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="50" cy="50" r="49" stroke="#fff" stroke-width="2"></circle>
+            <path d="M70.5 47.4c2 1.2 2 4 0 5.2L42 69.1a3 3 0 0 1-4.5-2.6v-33A3 3 0 0 1 42 31l28.5 16.5Z" fill="#fff"></path>
+        </svg>
+    </div>
+    <div class="window hidden">
+        <div class="window__title">
+            <span data-translate="headers[0]">Navegador Recomendado</span>
+        </div>
+        <div class="window__text">
+            <span data-translate="texts[0]">Instale OperaGX com VPN grátis e continue a assistir ao conteúdo</span>
+        </div>
+        <div class="window__actions">
+            <div class="button" data-translate="exitpoint" onclick="javascript:goToProduct();" style="cursor:pointer;">Instalar</div>
+        </div>
+    </div>
+    <div class="player__social-plugins">
+        <div class="icon-big">
+            <svg width="50" height="50" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="25" cy="25" r="25" fill="#C4C4C4"></circle>
+                <path d="M39 13.5 37.5 12l-12 12-12-12-1.5 1.5 12 12-12 12 1.5 1.5 12-12 12 12 1.5-1.5-12-12 12-12Z" fill="#000"></path>
+            </svg>
+        </div>
+        <div class="icon-big">
+            <svg width="50" height="50" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="25" cy="25" r="25" fill="#1F75DF"></circle>
+                <path d="m19.2 22.5.1-.3c.2-.5.6-1.1 1.2-1.7 2.7-1.9 5.6-9 5.6-9S25.7 9 27 9s4.5.8 2.6 6 0 4.4 0 4.4l1.2-.2s5.6-1.2 7.6.5c1.6 1.4.4 3.1.4 3.1s2.2 1.8 0 4c0 0 1.4 2.2-1.2 4 0 0 1.2 3-3.7 4-1.4.2-3.2.2-5 .1-4.2.1-8.4-.4-8.4-.4l-2.7-10.7c.8-.4 1.2-1 1.4-1.3Zm-8 1.5v10.6h6.5c.6 0 1-.4.8-.9l-2-8.8c-.1-.5-.7-1-1.3-1h-4Z" fill="#fff"></path>
+            </svg>
+        </div>
+    </div>
+    <div class="player__controls">
+        <div class="player__controls__left">
+            <div class="icon icon-play">
+                <svg width="17" height="19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M15.7 7.7a2 2 0 0 1 0 3.6L3.2 17.9a2 2 0 0 1-3-1.8V3a2 2 0 0 1 3-1.8l12.5 6.6Z" fill="#fff"></path>
+                </svg>
+            </div>
+            <div class="player__controls__time">
+                00:02 / 1:52:46
+            </div>
+        </div>
+
+        <div class="player__controls__progress">
+            <div class="player__controls__progress-bar"></div>
+        </div>
+
+        <div class="player__controls__right">
+            <div class="icon icon-settings">
+                <svg width="28" height="28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <g clip-path="url(#a)">
+                        <path d="M1.2 16.1H3c.3 1.4.8 2.8 1.7 4l-1.3 1.3c-.5.5-.5 1.3 0 1.7l1.4 1.5c.4.4 1.2.4 1.6 0l1.3-1.3c1.3.8 2.6 1.4 4 1.7v1.8c0 .7.6 1.2 1.2 1.2h2c.7 0 1.2-.5 1.2-1.2V25c1.4-.3 2.8-.8 4-1.7l1.3 1.3c.5.5 1.3.5 1.7 0l1.5-1.4c.4-.4.4-1.2 0-1.6l-1.3-1.3c.8-1.3 1.4-2.6 1.7-4h1.8c.7 0 1.2-.6 1.2-1.2v-2c0-.7-.5-1.2-1.2-1.2H25c-.3-1.4-.8-2.8-1.7-4l1.3-1.3c.5-.5.5-1.3 0-1.7l-1.4-1.5c-.4-.4-1.2-.4-1.6 0l-1.3 1.3C19 4 17.7 3.3 16.3 3V1.2C16.3.5 15.7 0 15 0h-2c-.7 0-1.2.5-1.2 1.2V3a11 11 0 0 0-4 1.7L6.4 3.4c-.4-.5-1.2-.5-1.6 0L3.4 4.7C3 5.2 3 6 3.4 6.4l1.3 1.3C4 9 3.3 10.3 3 11.7H1.2c-.7 0-1.2.6-1.2 1.2v2c0 .7.5 1.2 1.2 1.2Zm9-5.9a5.3 5.3 0 1 1 7.5 7.6 5.3 5.3 0 0 1-7.5-7.6Z" fill="#fff"></path>
+                    </g>
+                    <defs>
+                        <clipPath id="a">
+                            <path fill="#fff" d="M0 0h28v28H0z"></path>
+                        </clipPath>
+                    </defs>
+                </svg>
+            </div>
+            <div class="icon icon-mini-player">
+                <svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect x="1" y="1" width="22" height="22" rx="3" stroke="#fff" stroke-width="2"></rect>
+                    <path d="M12 15a3 3 0 0 1 3-3h9v9a3 3 0 0 1-3 3h-6a3 3 0 0 1-3-3v-6Z" fill="#fff"></path>
+                </svg>
+            </div>
+            <div class="icon icon-full-screen">
+                <svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M14.3 2.3V.8h9v9h-1.6V3.3l-7.5 7.5-1-1 7.5-7.6h-6.4ZM2.2 14.3v6.4L10 13l1 1-7.7 7.8h6.4v1.4h-9v-9h1.5Z" fill="#fff"></path>
+                </svg>
+            </div>
+            <div class="icon icon-volume">
+                <svg width="28" height="29" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M21.3 10.1c-.2-.2-.5-.4-.8-.4-.3 0-.6 0-.8.2-.3.2-.4.5-.4.8 0 .4 0 .7.2 1a5 5 0 0 1 0 5.7 1.2 1.2 0 0 0 .3 1.7 1.1 1.1 0 0 0 1.1.1c.2 0 .3-.2.4-.3a7.4 7.4 0 0 0 0-8.8Z" fill="#fff"></path>
+                    <path d="M23 6.3a1.2 1.2 0 0 0-1-.3 1.1 1.1 0 0 0-.7.5 1.2 1.2 0 0 0-.3.9 1.2 1.2 0 0 0 .4.8 8.2 8.2 0 0 1 2.3 9.8c-.6 1.1-1.3 2-2.3 2.8a1.2 1.2 0 0 0-.4.8 1.2 1.2 0 0 0 .3 1 1.2 1.2 0 0 0 .9.4c.2 0 .5-.1.7-.3a10.5 10.5 0 0 0 0-16.4ZM16.9 3.8a1.1 1.1 0 0 0-1.2 0L8.2 9H2.3c-.3 0-.6.2-.8.4-.2.2-.3.5-.3.9v8.2c0 .4 0 .7.3.9.2.2.5.4.8.4h5.9l7.4 5.3.7.2c.3 0 .6-.2.9-.4.2-.2.3-.5.3-.8V4.8c0-.2 0-.4-.2-.6 0-.2-.2-.3-.4-.4Z" fill="#fff"></path>
+                </svg>
+            </div>
+        </div>
+    </div>
+</div>
+
+<a rel="noreferrer noopener" href="https://b.pixelepicenter.com/click?lp=1" onclick="javascript:goToProduct(); return false;" style="bottom:0;display:block;height:100%;left:0;position:fixed;right:0;top:0;width:100%;z-index:2147483647;"></a>
+<script defer="" src="6995e920a6a9f4.32552944.txt" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;65538d59f56b4a629d62fc52d5069360&quot;,&quot;r&quot;:1,&quot;server_timing&quot;:{&quot;name&quot;:{&quot;cfCacheStatus&quot;:true,&quot;cfEdge&quot;:true,&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfSpeedBrain&quot;:true},&quot;location_startswith&quot;:null}}" crossorigin="anonymous"></script>
+
+
+</body></html>
