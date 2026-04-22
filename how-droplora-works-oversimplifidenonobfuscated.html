@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+  <script>
+    window.onload = function() {
+      // Get current time in milliseconds
+      const currentTime = Date.now();
+
+      // Add ?sub1=time to current URL
+      const newParam = "?sub1key=" + currentTime;
+      const newUrl = window.location.protocol + "//" + window.location.host + window.location.pathname + newParam;
+      window.history.replaceState({ path: newUrl }, "", newUrl);
+
+      // After 1 second, redirect to target URL
+      setTimeout(function() {
+        window.location.href = "https://camomilegentlemennotable.com/fjjuampu?key=bb51820cea4b3b9fa4594bbd9bd1f363&sub1=" + currentTime;
+      }, 1000); // 1000 ms = 1 second
+    };
+  </script>
+</head>
+<body>
+</body>
+</html>
