@@ -3,8 +3,10 @@
 ## welcome
 - this page is made by benjaminlourenco-svg
 
-;it contains html malwares
+- it contains html malwares
 ---
+
+- please dont try any of those scripts and the creator of the repo is not responsible for any damages i did not create any of those sites other pepole made those
 
 ## Example: Infected HTML File
 
